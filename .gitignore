@@ -1,0 +1,41 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Segredos e configuracoes locais
+.env
+.env.*
+!.env.example
+
+# Dependencias, caches e cobertura
+node_modules/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+coverage/
+
+# Artefatos de build e firmware
+build/
+dist/
+.pio/
+*.o
+*.obj
+*.elf
+*.map
+*.hex
+
+# Logs temporarios
+*.log
