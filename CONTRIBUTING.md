@@ -6,13 +6,9 @@ Antes de alterar o repositorio, leia `Playbook_Codex_ZigbeeMesh_v1.md`, `AGENTS.
 
 ## Processo obrigatorio
 
-1. Execute o Gate de Qualidade de `docs/QUALITY_GATE.md` antes de iniciar a TASK.
-2. Trabalhe em uma unica TASK autorizada somente se o gate estiver aprovado.
-3. Respeite integralmente o escopo e as listas de arquivos permitidos/proibidos.
-4. Registre impactos e atualize a documentacao aplicavel.
-5. Execute os testes obrigatorios da TASK e registre as evidencias previstas.
-6. Apresente o encerramento obrigatório de `docs/TASK_CLOSURE.md` antes de declarar a TASK concluída.
-7. Aguarde validacao antes de commit, push ou inicio da proxima TASK.
+O identificador da TASK é suficiente para iniciar o fluxo completo. Consulte `AGENTS.md` para a sequência automática obrigatória. Após o Gate de Qualidade aprovado, trabalhe exclusivamente na TASK solicitada, atualize documentação, execute testes, realize autoavaliação e apresente o encerramento obrigatório antes de aguardar validação.
+
+Após a validação, o comando explícito `Commit` autoriza somente o commit da TASK concluída e `Push` autoriza somente seu envio normal ao remoto configurado. Nenhum dos dois comandos autoriza a próxima TASK.
 
 Nao inclua credenciais. Nao faca escolhas de tecnologia sem justificativa e decisao registrada. Duvidas devem ser registradas em RFC ou na TASK pertinente para validacao.
 

@@ -12,8 +12,9 @@ O Gate de Qualidade verifica se uma TASK pode começar; este processo verifica s
 2. Executar e consolidar os testes obrigatórios.
 3. Atualizar toda documentação aplicável e verificar o backlog.
 4. Reavaliar o estado final de governança, segurança e dependências afetadas.
-5. Apresentar integralmente o relatório padronizado abaixo.
-6. Declarar a TASK concluída somente se não houver bloqueio de aceite ou pendência que impeça sua conclusão.
+5. Realizar autoavaliação objetiva de escopo, critérios de aceite, testes, segurança, documentação e impacto arquitetural; registrar conclusões no Resumo Técnico e em Pendências, quando aplicável.
+6. Apresentar integralmente o relatório padronizado abaixo.
+7. Declarar a TASK concluída somente se não houver bloqueio de aceite ou pendência que impeça sua conclusão.
 
 Se a implementação não puder ser concluída, o relatório deve declarar isso objetivamente. O Codex não deve apresentar a TASK como concluída nem iniciar a próxima sem orientação do usuário.
 

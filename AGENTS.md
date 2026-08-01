@@ -13,6 +13,23 @@ Planejamento → TASK → Validação → Commit → Push → Próxima TASK.
 
 Cada TASK deve declarar objetivo, contexto, dependências, escopo, arquivos permitidos e proibidos, critérios de aceite, testes obrigatórios e resultado esperado. Uma TASK corresponde a um commit autorizado.
 
+## Acionamento automático por identificador de TASK
+
+O usuário precisa informar apenas um identificador válido, como `TASK-001`, ou uma solicitação equivalente, como `Execute a TASK-001`. Nenhuma instrução adicional é necessária para iniciar o fluxo; o Codex deve localizar a TASK e executar automaticamente, nesta ordem:
+
+1. identificar a TASK solicitada;
+2. ler o Playbook e `AGENTS.md`;
+3. executar o Gate de Qualidade;
+4. verificar dependências, ADRs, RFCs, segurança e consistência documental;
+5. confirmar que a TASK pertence à versão atual;
+6. executar exclusivamente a TASK solicitada, dentro de seus arquivos permitidos;
+7. atualizar a documentação obrigatória;
+8. executar os testes definidos na própria TASK;
+9. realizar autoavaliação objetiva de escopo, aceite, testes, segurança, documentação e impacto arquitetural;
+10. apresentar o encerramento obrigatório e aguardar validação do usuário.
+
+O Codex não deve iniciar TASK diferente da solicitada, ampliar escopo, fazer commit automaticamente, fazer push automaticamente ou iniciar a próxima TASK. Após a validação do usuário, os comandos explícitos `Commit` e `Push` são suficientes para as respectivas ações, sempre respeitando o Playbook, o escopo da TASK concluída e as verificações aplicáveis.
+
 ## Regras de implementação
 
 - Não inserir credenciais, chaves ou dados sensíveis.
@@ -42,6 +59,7 @@ Cada TASK deve declarar objetivo, contexto, dependências, escopo, arquivos perm
 - Ao final de toda TASK, apresente automaticamente o relatório completo definido em `docs/TASK_CLOSURE.md`.
 - Nenhuma TASK pode ser declarada concluída sem esse encerramento, incluindo evidências de implementação, testes, documentação, backlog, pendências e próximos passos.
 - A próxima TASK indicada no relatório continua sujeita a novo Gate de Qualidade; não a inicie automaticamente.
+- A autoavaliação da implementação deve ocorrer antes do relatório e ter suas conclusões registradas no Resumo Técnico e em Pendências, quando aplicável.
 
 ## Estrutura
 

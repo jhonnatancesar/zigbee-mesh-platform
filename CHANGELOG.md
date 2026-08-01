@@ -13,6 +13,7 @@ Todas as mudanças relevantes deste projeto serão registradas aqui.
 - Separação explícita entre definição documental e execução prática para validação física, OTA, IA, segurança, operação e contratos.
 - Gate de Qualidade obrigatório antes do início de qualquer TASK.
 - Processo obrigatório de encerramento de TASK com relatório padronizado e evidências.
+- Acionamento automático do fluxo completo por identificador de TASK, incluindo autoavaliação e comandos explícitos de commit/push após validação.
 
 - Estrutura inicial de diretórios do projeto.
 - Documentação inicial, regras para agentes e backlog de TASKs.

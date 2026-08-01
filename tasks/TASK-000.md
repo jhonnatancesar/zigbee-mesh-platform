@@ -37,6 +37,6 @@ Inspeção da árvore e revisão documental contra o Playbook.
 
 ## Resultado esperado
 
-Além da estrutura inicial, a revisão documental autorizada deve entregar índice de documentação, roadmap, arquitetura limitada aos princípios do Playbook, registros de decisões pendentes, glossário, estratégia de testes, rastreabilidade, guia de contribuição, modelos de TASK/RFC/ADR, triagem permanente de ideias, Gate de Qualidade pré-execução e encerramento obrigatório de TASKs. Esses artefatos não autorizam implementação nem decisões técnicas.
+Além da estrutura inicial, a revisão documental autorizada deve entregar índice de documentação, roadmap, arquitetura limitada aos princípios do Playbook, registros de decisões pendentes, glossário, estratégia de testes, rastreabilidade, guia de contribuição, modelos de TASK/RFC/ADR, triagem permanente de ideias, Gate de Qualidade pré-execução, encerramento obrigatório de TASKs e acionamento automático por identificador de TASK. Esses artefatos não autorizam implementação nem decisões técnicas.
 
 Repositório estruturado e documentado, aguardando validação para iniciar uma única TASK posterior.

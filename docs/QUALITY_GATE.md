@@ -6,6 +6,8 @@ Antes de iniciar qualquer TASK, inclusive TASK documental, o Codex deve executar
 
 O gate não substitui validação do usuário nem os testes obrigatórios da TASK. Ele decide apenas se a TASK está apta a começar.
 
+Um identificador como `TASK-001` é suficiente para acionar esse fluxo; o Codex deve localizar a TASK e executar o gate sem solicitar instruções adicionais, exceto quando uma verificação bloquear a execução.
+
 ## Evidência de pré-requisitos
 
 Uma dependência só é considerada concluída quando houver validação explícita do usuário e evidência documental compatível, como registro no estado do backlog, na TASK, no CHANGELOG ou em documento de validação. Na ausência de evidência verificável, trate-a como pendente.
