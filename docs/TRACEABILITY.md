@@ -1,5 +1,12 @@
 # Rastreabilidade inicial
 
+## Evidencia da TASK-030
+
+| Secao | Evidencia |
+| --- | --- |
+| 7, 8 e 10 | Operacao local, falhas, auditoria e recuperacao em `OPERATIONS_REQUIREMENTS.md`. |
+| 19 | Criterios de capacidade, manutencao e simplicidade sem escolha de ferramenta. |
+
 ## Evidencia da TASK-017
 
 | Diretriz | Evidencia |

@@ -5,6 +5,7 @@ Todas as mudanças relevantes deste projeto serão registradas aqui.
 ## [Não lançado]
 
 ### Adicionado
+- Requisitos operacionais documentais para servidor local, backup, recuperacao, tempo e retencao.
 - Politica documental de pre-analise de IA, risco, aprovacao humana e consulta externa controlada.
 - Especificacao documental de OTA segura, elegibilidade, telemetria e rollback.
 - Especificacao documental do sensor MVP e metodologia de validacao fisica futura.
@@ -22,6 +23,12 @@ Todas as mudanças relevantes deste projeto serão registradas aqui.
 
 - Estrutura inicial de diretórios do projeto.
 - Documentação inicial, regras para agentes e backlog de TASKs.
+
+## [TASK-030] - 2026-09-14
+
+### Adicionado
+
+- Requisitos operacionais de instalacao, recuperacao, tempo, retencao e evidencias do servidor local.
 
 ## [TASK-017] - 2026-09-14
 

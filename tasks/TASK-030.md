@@ -1,5 +1,9 @@
 # TASK-030 — Requisitos operacionais e não funcionais do servidor local
 
+## Status
+
+Concluida e validada em 2026-09-14. Os requisitos operacionais foram documentados sem infraestrutura, automacao ou escolha de ferramenta.
+
 ## Objetivo
 
 Definir requisitos verificáveis de operação do servidor local e do banco próprio.
