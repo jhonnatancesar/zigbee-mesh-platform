@@ -1,5 +1,13 @@
 # Rastreabilidade inicial
 
+## Evidencia da TASK-003
+
+| Secao do Playbook | Evidencia |
+| --- | --- |
+| 5 - MVP | Escopo do end device temperatura/umidade. |
+| 9 - HAL e ESP32-C6 | Fronteiras conceituais em `SENSOR_SPECIFICATION.md`. |
+| 18 e 19 | Compatibilidade e criterios de consumo, manutencao e enlace para validacao futura. |
+
 ## Evidencia da TASK-002
 
 | Diretriz | Evidencia |

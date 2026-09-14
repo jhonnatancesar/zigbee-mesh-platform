@@ -1,5 +1,9 @@
 # TASK-003 — Especificação do sensor e plataforma embarcada
 
+## Status
+
+Concluida e validada em 2026-09-14. A especificacao e a metodologia de validacao foram documentadas sem escolha de componentes, ensaios ou implementacao.
+
 ## Objetivo
 
 Documentar requisitos do sensor proprietário de temperatura/umidade e da plataforma ESP32-C6 prevista para o MVP, incluindo a metodologia de validação física que será executada futuramente pela TASK-031.

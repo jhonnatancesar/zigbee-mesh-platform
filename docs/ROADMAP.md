@@ -26,4 +26,6 @@ TASK-029 foi validada e estabeleceu a arquitetura documental de seguranca do MVP
 
 TASK-002 foi validada e estabeleceu os contratos documentais de eventos, dados e API administrativa. Nenhum componente posterior foi iniciado ou validado.
 
+TASK-003 foi validada e estabeleceu os requisitos documentais do sensor e a metodologia para validacao fisica futura.
+
 A TASK-000 estruturou a documentacao e o backlog. Nenhum marco posterior foi iniciado ou validado.
