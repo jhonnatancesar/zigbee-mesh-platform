@@ -11,6 +11,8 @@
 
 ## Governanca
 
+- [Arquitetura de seguranca](SECURITY_ARCHITECTURE.md): limites de confianca e requisitos do MVP.
+
 - [RFC-001](../rfc/RFC-001.md): mapa das decisoes tecnicas pendentes do MVP.
 
 - [Decisoes](DECISIONS.md): regra de uso de ADRs e RFCs e estado atual.

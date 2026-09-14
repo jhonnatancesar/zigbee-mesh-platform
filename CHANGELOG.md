@@ -5,6 +5,7 @@ Todas as mudanças relevantes deste projeto serão registradas aqui.
 ## [Não lançado]
 
 ### Adicionado
+- Arquitetura documental de seguranca do MVP e RFCs para identidade, canal seguro e ciclo de vida de credenciais/OTA.
 
 - Índice documental, roadmap, arquitetura de princípios, rastreabilidade, glossário, estratégia de testes e modelos de documentos.
 - Guia de contribuição e navegação de governança documental.
@@ -17,6 +18,13 @@ Todas as mudanças relevantes deste projeto serão registradas aqui.
 
 - Estrutura inicial de diretórios do projeto.
 - Documentação inicial, regras para agentes e backlog de TASKs.
+
+## [TASK-029] - 2026-09-14
+
+### Adicionado
+
+- Requisitos documentais de seguranca, identidade, TLS, tokens, auditoria, ciclo de credenciais e fronteira OTA.
+- RFCs para comissionamento Zigbee, canal coordenador-servidor e ciclo de vida de credenciais.
 
 ## [TASK-001] - 2026-09-14
 

@@ -22,4 +22,6 @@ Novas ideias para versões futuras não alteram este roadmap automaticamente: de
 
 TASK-000 e TASK-001 foram validadas. Nenhum marco posterior foi iniciado ou validado.
 
+TASK-029 foi validada e estabeleceu a arquitetura documental de seguranca do MVP. Nenhum componente posterior foi iniciado ou validado.
+
 A TASK-000 estruturou a documentacao e o backlog. Nenhum marco posterior foi iniciado ou validado.

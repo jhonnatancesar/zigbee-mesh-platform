@@ -1,5 +1,9 @@
 # TASK-029 — Arquitetura de segurança e identidade do MVP
 
+## Status
+
+Concluida e validada em 2026-09-14. A entrega documental estabeleceu requisitos e RFCs de seguranca sem aprovar tecnologia, emitir credenciais ou implementar controles.
+
 ## Objetivo
 
 Definir e validar os requisitos arquiteturais de segurança, identidade, autenticação, autorização, auditoria e gestão de chaves do MVP.

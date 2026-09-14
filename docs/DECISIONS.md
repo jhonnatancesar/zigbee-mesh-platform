@@ -2,6 +2,8 @@
 
 ## Estado atual
 
+TASK-029 documenta requisitos e pendencias de seguranca em `docs/SECURITY_ARCHITECTURE.md` e RFCs 002 a 004. Nenhum algoritmo, fornecedor ou mecanismo concreto foi aprovado.
+
 A TASK-001 adicionou [RFC-001](../rfc/RFC-001.md) para mapear as pendencias. Nenhuma decisao tecnica foi aprovada por ela.
 
 Nenhuma decisao de tecnologia, framework, SDK, banco, protocolo, hardware ou fornecedor foi aprovada na TASK-000.

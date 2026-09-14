@@ -1,5 +1,14 @@
 # Rastreabilidade inicial
 
+## Evidencia da TASK-029
+
+| Secao do Playbook | Evidencia |
+| --- | --- |
+| 7 - Arquitetura | Limites de confianca e fluxos em `docs/SECURITY_ARCHITECTURE.md` |
+| 8 - Seguranca | Requisitos de TLS, tokens, mTLS planejado, auditoria e credenciais |
+| 10 - Registros | Requisitos de correlacao e auditoria de eventos de seguranca |
+| 12 - OTA | Assinatura, integridade, elegibilidade e rollback delimitados |
+
 ## Evidencia da TASK-001
 
 | Secao do Playbook | Evidencia produzida | Verificacao |
