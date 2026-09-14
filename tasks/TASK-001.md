@@ -1,5 +1,9 @@
 # TASK-001 — Baseline arquitetural e decisões pendentes
 
+## Status
+
+Concluida e validada em 2026-09-14. A entrega documental foi registrada na baseline arquitetural, em RFC-001 e na rastreabilidade; nenhuma decisao tecnologica foi aprovada nesta TASK.
+
 ## Objetivo
 
 Transformar as diretrizes do Playbook em arquitetura verificável e registrar decisões pendentes como RFC/ADR conforme validação.

@@ -11,6 +11,8 @@
 
 ## Governanca
 
+- [RFC-001](../rfc/RFC-001.md): mapa das decisoes tecnicas pendentes do MVP.
+
 - [Decisoes](DECISIONS.md): regra de uso de ADRs e RFCs e estado atual.
 - [Glossario](GLOSSARY.md): vocabulario comum.
 - [Estrategia de testes](TEST_STRATEGY.md): regras de evidencia e validacao.

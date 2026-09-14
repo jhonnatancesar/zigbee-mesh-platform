@@ -1,5 +1,19 @@
 # Rastreabilidade inicial
 
+## Evidencia da TASK-001
+
+| Secao do Playbook | Evidencia produzida | Verificacao |
+| --- | --- | --- |
+| 5 - MVP | `docs/ARCHITECTURE.md` delimita os modulos do MVP e seus limites | Nenhum item V2 ou futuro foi incorporado |
+| 7 - Arquitetura | Limites de modulos, fronteiras e fluxos logicos em `docs/ARCHITECTURE.md` | Modularidade, eventos e banco local como fonte da verdade estao explicitos |
+| 8 - Dados e retencao | Fluxo de telemetria e regra de persistencia local | Contratos e retencao concreta permanecem para TASK-002 e TASK-030 |
+| 9 - Firmware | Modulos Dispositivo Zigbee e Firmware/HAL | SDK/toolchain e implementacao permanecem pendentes |
+| 10 - Registros | Regra de rastreabilidade e fluxo de eventos | Campos e contratos permanecem para TASK-002 |
+| 11 - IA | Modulo e fluxo de pre-analise de IA | Politica de risco permanece para TASK-017 |
+| 12 - OTA | Modulo e fluxo logico de OTA | Especificacao e controles permanecem para TASKs 015 e 029 |
+
+As decisoes pendentes associadas a essas secoes estao registradas em `rfc/RFC-001.md`. Nenhum ADR foi criado porque nenhuma escolha foi aprovada.
+
 | Diretriz do Playbook | Documentacao inicial | TASKs propostas |
 | --- | --- | --- |
 | Missao, MVP, V2 e futuro | `CONTEXTO.md`, `ROADMAP.md` | 001-031 |

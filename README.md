@@ -2,7 +2,7 @@
 
 Plataforma própria de IoT iniciada por uma malha Zigbee. O MVP previsto no Playbook contempla coordenador, routers, end devices, sensor proprietário de temperatura/umidade, Home Assistant, API, banco de dados próprio, IA, OTA e servidor local.
 
-Este repositório está na TASK-000, exclusivamente de inicialização. Não há implementação funcional, dependências ou escolhas de framework nesta etapa.
+Este repositorio concluiu as TASKs 000 e 001. Nao ha implementacao funcional, dependencias ou escolhas de framework aprovadas nesta etapa.
 
 ## Princípios
 
@@ -18,4 +18,4 @@ O [índice da documentação](docs/README.md) concentra contexto, roadmap, arqui
 
 ## Estado
 
-Aguardando validação da TASK-000 antes de qualquer TASK posterior.
+Aguardando autorizacao para a proxima TASK, que continuara sujeita ao Gate de Qualidade.

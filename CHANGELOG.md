@@ -18,6 +18,14 @@ Todas as mudanças relevantes deste projeto serão registradas aqui.
 - Estrutura inicial de diretórios do projeto.
 - Documentação inicial, regras para agentes e backlog de TASKs.
 
+## [TASK-001] - 2026-09-14
+
+### Adicionado
+
+- Baseline arquitetural verificavel do MVP, com limites de modulos, fluxos logicos e regras de fronteira.
+- RFC-001 para registrar pendencias tecnicas sem aprovar tecnologias ou fornecedores.
+- Rastreabilidade da baseline contra as secoes aplicaveis do Playbook.
+
 ## [TASK-000] - 2026-08-01
 
 ### Adicionado

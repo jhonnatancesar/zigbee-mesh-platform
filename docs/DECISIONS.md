@@ -2,6 +2,8 @@
 
 ## Estado atual
 
+A TASK-001 adicionou [RFC-001](../rfc/RFC-001.md) para mapear as pendencias. Nenhuma decisao tecnica foi aprovada por ela.
+
 Nenhuma decisao de tecnologia, framework, SDK, banco, protocolo, hardware ou fornecedor foi aprovada na TASK-000.
 
 ## Uso de RFC e ADR

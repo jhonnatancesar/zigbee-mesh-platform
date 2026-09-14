@@ -20,4 +20,6 @@ Novas ideias para versões futuras não alteram este roadmap automaticamente: de
 
 ## Marco atual
 
+TASK-000 e TASK-001 foram validadas. Nenhum marco posterior foi iniciado ou validado.
+
 A TASK-000 estruturou a documentacao e o backlog. Nenhum marco posterior foi iniciado ou validado.
