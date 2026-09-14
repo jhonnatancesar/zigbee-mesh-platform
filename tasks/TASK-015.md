@@ -1,5 +1,9 @@
 # TASK-015 — Especificação de OTA segura
 
+## Status
+
+Concluida e validada em 2026-09-14. A especificacao de OTA foi documentada sem chaves, artefatos ou atualizacoes executadas.
+
 ## Objetivo
 
 Definir o processo de OTA assinado e rollback para coordenador, router e end device.

@@ -1,5 +1,12 @@
 # Rastreabilidade inicial
 
+## Evidencia da TASK-015
+
+| Diretriz | Evidencia |
+| --- | --- |
+| OTA para tres papeis | `OTA_SPECIFICATION.md` define fluxo comum e estados. |
+| Bateria, enlace, integridade e rollback | Regras de elegibilidade, verificacao e recuperacao verificaveis. |
+
 ## Evidencia da TASK-003
 
 | Secao do Playbook | Evidencia |

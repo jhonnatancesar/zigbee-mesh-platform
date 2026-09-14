@@ -5,6 +5,7 @@ Todas as mudanças relevantes deste projeto serão registradas aqui.
 ## [Não lançado]
 
 ### Adicionado
+- Especificacao documental de OTA segura, elegibilidade, telemetria e rollback.
 - Especificacao documental do sensor MVP e metodologia de validacao fisica futura.
 - Contratos documentais de eventos, dados, retencao e API administrativa do MVP.
 - Arquitetura documental de seguranca do MVP e RFCs para identidade, canal seguro e ciclo de vida de credenciais/OTA.
@@ -20,6 +21,12 @@ Todas as mudanças relevantes deste projeto serão registradas aqui.
 
 - Estrutura inicial de diretórios do projeto.
 - Documentação inicial, regras para agentes e backlog de TASKs.
+
+## [TASK-015] - 2026-09-14
+
+### Adicionado
+
+- Especificacao de OTA segura com elegibilidade, verificacao, telemetria e rollback.
 
 ## [TASK-003] - 2026-09-14
 
