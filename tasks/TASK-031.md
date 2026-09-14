@@ -10,7 +10,7 @@ O MVP inclui sensor proprietário, mas hardware proprietário é explicitamente 
 
 ## Dependências
 
-TASK-003 validada e decisão de plataforma registrada em ADR.
+TASK-003 e TASK-032 validadas; decisões de plataforma, sensor, alimentação, interfaces, SDK/toolchain, HAL e metas de ensaio registradas em ADRs aprovados.
 
 ## Escopo
 

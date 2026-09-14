@@ -1,5 +1,11 @@
 # Rastreabilidade inicial
 
+## Cadeia da plataforma fisica do sensor
+
+`TASK-032` -> validacao do usuario -> ADRs aprovados -> `TASK-031` -> `TASK-004` -> `TASK-005`.
+
+TASK-032 resolve RFC-005; TASK-031 executa somente os ensaios previamente decididos; TASK-004 e TASK-005 consomem a plataforma validada.
+
 ## Evidencia da TASK-030
 
 | Secao | Evidencia |

@@ -20,6 +20,8 @@ Novas ideias para versões futuras não alteram este roadmap automaticamente: de
 
 ## Marco atual
 
+TASK-032 precede a aprovacao das decisoes, ADRs, TASK-031, TASK-004 e TASK-005. Ela corrige a lacuna de decisao da plataforma fisica sem autorizar compra, ensaio ou implementacao.
+
 TASK-000 e TASK-001 foram validadas. Nenhum marco posterior foi iniciado ou validado.
 
 TASK-029 foi validada e estabeleceu a arquitetura documental de seguranca do MVP. Nenhum componente posterior foi iniciado ou validado.

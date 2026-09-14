@@ -1,5 +1,9 @@
 # Backlog de TASKs
 
+## Ajuste de dependencia da plataforma fisica
+
+TASK-032 e a TASK de decisao que antecede TASK-031. A sequencia vinculante e: TASK-032 -> validacao das decisoes -> ADRs aprovados -> TASK-031 -> TASK-004 -> TASK-005. TASK-032 nao autoriza compra, ensaio fisico ou implementacao.
+
 Use o [índice de modelos](../docs/templates/README.md) ao criar uma TASK autorizada. Consulte a [rastreabilidade](../docs/TRACEABILITY.md) para a relação entre as TASKs e o Playbook.
 
 Somente a TASK-000 está executada. Todas as demais aguardam validação e autorização explícita, uma por vez. O número é um identificador estável; a sequência vinculante é determinada pelas dependências e pela ordem abaixo.

@@ -5,6 +5,7 @@ Todas as mudanças relevantes deste projeto serão registradas aqui.
 ## [Não lançado]
 
 ### Adicionado
+- TASK-032 para resolver decisoes da plataforma fisica e liberar a validacao da TASK-031.
 - Requisitos operacionais documentais para servidor local, backup, recuperacao, tempo e retencao.
 - Politica documental de pre-analise de IA, risco, aprovacao humana e consulta externa controlada.
 - Especificacao documental de OTA segura, elegibilidade, telemetria e rollback.
