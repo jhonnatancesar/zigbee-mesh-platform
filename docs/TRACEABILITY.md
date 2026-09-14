@@ -1,5 +1,13 @@
 # Rastreabilidade inicial
 
+## Evidencia da TASK-002
+
+| Diretriz | Evidencia |
+| --- | --- |
+| Registros e retencao | `docs/CONTRACTS.md` define tipos, campos conceituais e prioridades. |
+| Eventos e API | Versionamento, validacao, erros, idempotencia e correlacao definidos. |
+| Zigbee de terceiros | Identidade, capacidade e incompatibilidade rastreaveis. |
+
 ## Evidencia da TASK-029
 
 | Secao do Playbook | Evidencia |

@@ -2,6 +2,8 @@
 
 ## Direcao do projeto
 
+- [Contratos](CONTRACTS.md): eventos, dados, retencao e API administrativa do MVP.
+
 - [Contexto](CONTEXTO.md): missao, escopo, principios e restricoes.
 - [Arquitetura](ARCHITECTURE.md): principios e limites ja estabelecidos pelo Playbook.
 - [Roadmap](ROADMAP.md): MVP, V2 e visao futura.

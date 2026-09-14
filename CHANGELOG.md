@@ -5,6 +5,7 @@ Todas as mudanças relevantes deste projeto serão registradas aqui.
 ## [Não lançado]
 
 ### Adicionado
+- Contratos documentais de eventos, dados, retencao e API administrativa do MVP.
 - Arquitetura documental de seguranca do MVP e RFCs para identidade, canal seguro e ciclo de vida de credenciais/OTA.
 
 - Índice documental, roadmap, arquitetura de princípios, rastreabilidade, glossário, estratégia de testes e modelos de documentos.
@@ -18,6 +19,12 @@ Todas as mudanças relevantes deste projeto serão registradas aqui.
 
 - Estrutura inicial de diretórios do projeto.
 - Documentação inicial, regras para agentes e backlog de TASKs.
+
+## [TASK-002] - 2026-09-14
+
+### Adicionado
+
+- Contratos conceituais de eventos, dados, retencao, interoperabilidade e API administrativa.
 
 ## [TASK-029] - 2026-09-14
 

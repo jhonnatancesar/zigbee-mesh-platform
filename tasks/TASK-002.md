@@ -1,5 +1,9 @@
 # TASK-002 — Contratos de eventos, dados e API administrativa
 
+## Status
+
+Concluida e validada em 2026-09-14. Os contratos permanecem conceituais; nenhuma interface, persistencia, firmware ou esquema executavel foi implementado.
+
 ## Objetivo
 
 Especificar contratos verificáveis para dispositivos, telemetria, eventos, dados, diagnósticos, retenção e API administrativa do MVP.

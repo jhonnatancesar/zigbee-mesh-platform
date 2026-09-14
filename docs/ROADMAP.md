@@ -24,4 +24,6 @@ TASK-000 e TASK-001 foram validadas. Nenhum marco posterior foi iniciado ou vali
 
 TASK-029 foi validada e estabeleceu a arquitetura documental de seguranca do MVP. Nenhum componente posterior foi iniciado ou validado.
 
+TASK-002 foi validada e estabeleceu os contratos documentais de eventos, dados e API administrativa. Nenhum componente posterior foi iniciado ou validado.
+
 A TASK-000 estruturou a documentacao e o backlog. Nenhum marco posterior foi iniciado ou validado.
