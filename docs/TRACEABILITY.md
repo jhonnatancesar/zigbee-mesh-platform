@@ -1,5 +1,12 @@
 # Rastreabilidade inicial
 
+## Evidencia da TASK-017
+
+| Diretriz | Evidencia |
+| --- | --- |
+| IA controlada por risco | `AI_POLICY.md` define baixo, medio e alto risco. |
+| Justificativa e auditoria | Registro obrigatorio de motivo, correlacao e resultado. |
+
 ## Evidencia da TASK-015
 
 | Diretriz | Evidencia |

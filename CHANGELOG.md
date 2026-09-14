@@ -5,6 +5,7 @@ Todas as mudanças relevantes deste projeto serão registradas aqui.
 ## [Não lançado]
 
 ### Adicionado
+- Politica documental de pre-analise de IA, risco, aprovacao humana e consulta externa controlada.
 - Especificacao documental de OTA segura, elegibilidade, telemetria e rollback.
 - Especificacao documental do sensor MVP e metodologia de validacao fisica futura.
 - Contratos documentais de eventos, dados, retencao e API administrativa do MVP.
@@ -21,6 +22,12 @@ Todas as mudanças relevantes deste projeto serão registradas aqui.
 
 - Estrutura inicial de diretórios do projeto.
 - Documentação inicial, regras para agentes e backlog de TASKs.
+
+## [TASK-017] - 2026-09-14
+
+### Adicionado
+
+- Politica de IA baseada em risco, aprovacao humana, auditoria e consulta externa controlada.
 
 ## [TASK-015] - 2026-09-14
 

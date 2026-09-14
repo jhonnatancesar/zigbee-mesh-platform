@@ -1,5 +1,9 @@
 # TASK-017 — Política e pré-análise de IA
 
+## Status
+
+Concluida e validada em 2026-09-14. A politica foi documentada sem modelo, integracao externa ou automacao executada.
+
 ## Objetivo
 
 Definir a política de risco e os contratos de pré-análise local da IA.
