@@ -1,5 +1,9 @@
 # TASK-033 — Decisão do coordenador Zigbee e interoperabilidade base
 
+## Status
+
+FORMALMENTE CONCLUÍDA E VALIDADA. Nenhuma ADR foi criada e nenhuma implementação foi iniciada.
+
 ## Objetivo
 
 Definir a base arquitetural e as decisões propostas para um coordenador Zigbee capaz de criar e manter rede interoperável por padrões e capacidades anunciadas.

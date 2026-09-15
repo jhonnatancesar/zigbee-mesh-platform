@@ -1,10 +1,10 @@
 # Roadmap do produto
 
-TASK-032 está **SUSPENSA POR REPRIORIZAÇÃO — NÃO BLOQUEANTE**. As análises acumuladas permanecem preservadas para retomada futura. TASK-033 é a próxima etapa prioritária do MVP.
+TASK-032 está **SUSPENSA POR REPRIORIZAÇÃO — NÃO BLOQUEANTE**. As análises acumuladas permanecem preservadas para retomada futura. TASK-033 está concluída; ADRs do coordenador precedem a implementação prioritária.
 
 O foco prioritario do MVP e coordenador e rede Zigbee interoperavel. O sensor proprio e caso de referencia/teste; sua validacao fisica nao bloqueia a cadeia do coordenador.
 
-TASK-033 prepara decisoes do coordenador e interoperabilidade base; TASK-007 as consome, e TASK-019 executa os testes formais com dispositivos comerciais.
+TASK-033 definiu a base do coordenador e interoperabilidade. TASK-008 prepara o servidor apos seu ADR proprio de tecnologia; TASK-007 consome a fundacao do servidor e os ADRs do coordenador. TASK-019 executa os testes formais com dispositivos comerciais.
 
 ## MVP
 

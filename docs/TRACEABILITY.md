@@ -1,12 +1,21 @@
 # Rastreabilidade inicial
 
-TASK-032 está **SUSPENSA POR REPRIORIZAÇÃO — NÃO BLOQUEANTE**; suas análises permanecem preservadas e não há outra TASK ativa. A próxima TASK prioritária é a TASK-033.
+TASK-032 está **SUSPENSA POR REPRIORIZAÇÃO — NÃO BLOQUEANTE**; suas análises permanecem preservadas. TASK-033 está concluída e não há TASK ativa.
 
 ## Prioridade de interoperabilidade
 
-`TASK-033` -> validacao/ADRs do coordenador -> `TASK-008` e `TASK-007` -> cadeia de eventos/API -> `TASK-019`.
+`TASK-033` concluída -> ADR de tecnologia do servidor -> `TASK-008` -> ADRs do coordenador -> `TASK-007` -> cadeia de eventos/API -> `TASK-019`.
 
 Coordenador, commissioning, descoberta, capacidades, clusters padrao, atributos, comandos e tratamento seguro de clusters desconhecidos sao prioridades do MVP. O dispositivo proprio fornece apenas segundo caso de teste.
+
+## Evidencia da TASK-033
+
+| Diretriz | Evidencia |
+| --- | --- |
+| Coordenador e interoperabilidade por padrao | `COORDINATOR_INTEROPERABILITY_ARCHITECTURE.md` e RFC-007 definem BDB, ZDO, ZCL e capacidade anunciada como base. |
+| Seguranca de ingresso e comandos | Permit-join limitado, autorizacao separada da descoberta, auditoria e falha fechada, alinhados a RFC-002 e `SECURITY_ARCHITECTURE.md`. |
+| Home Assistant como cliente | Capacidades e estados passam pelo servidor local; o adaptador futuro nao acessa o radio ou a fonte da verdade. |
+| Validacao comercial posterior | TASK-019 permanece responsavel pela matriz formal e suas evidencias. |
 
 ## Cadeia da plataforma fisica do sensor
 

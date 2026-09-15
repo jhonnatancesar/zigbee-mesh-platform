@@ -6,9 +6,11 @@ Todas as mudanças relevantes deste projeto serão registradas aqui.
 
 ### Alterado
 
+- TASK-033 validada formalmente; ADRs do coordenador pendem de registro antes da implementação.
 - TASK-032 suspensa por repriorização, sem descarte das análises acumuladas e sem bloqueio da cadeia do coordenador; TASK-033 registrada como próxima prioridade.
 
 ### Adicionado
+- Proposta arquitetural do coordenador Zigbee e RFC-007 para interoperabilidade baseada em capacidades anunciadas, pendentes de validação.
 - TASK-033 para decisao do coordenador Zigbee e interoperabilidade baseada em capacidades anunciadas.
 - Avaliacao comparativa da plataforma fisica e RFC-006 com recomendacoes pendentes de validacao.
 - TASK-032 para resolver decisoes da plataforma fisica e liberar a validacao da TASK-031.

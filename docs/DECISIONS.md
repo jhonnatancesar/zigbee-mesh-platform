@@ -2,6 +2,8 @@
 
 ## Estado atual
 
+TASK-033 foi validada e produziu a RFC-007 e a arquitetura do coordenador. A direcao XIAO ESP32-C6 com ESP Zigbee SDK, a fronteira `coordinator_adapter`, admission e o modelo de capacidades foram aprovados conceitualmente. A formalizacao em ADR continua necessaria antes da TASK-007; nenhum ADR foi criado.
+
 TASK-029 documenta requisitos e pendencias de seguranca em `docs/SECURITY_ARCHITECTURE.md` e RFCs 002 a 004. Nenhum algoritmo, fornecedor ou mecanismo concreto foi aprovado.
 
 A TASK-001 adicionou [RFC-001](../rfc/RFC-001.md) para mapear as pendencias. Nenhuma decisao tecnica foi aprovada por ela.
