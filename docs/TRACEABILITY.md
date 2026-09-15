@@ -1,10 +1,12 @@
 # Rastreabilidade inicial
 
-TASK-032 está **SUSPENSA POR REPRIORIZAÇÃO — NÃO BLOQUEANTE**; suas análises permanecem preservadas. TASK-033 está concluída e não há TASK ativa.
+TASK-032 está **SUSPENSA POR REPRIORIZAÇÃO — NÃO BLOQUEANTE**; suas análises permanecem preservadas. TASK-033 está concluída. TASK-034 é a próxima TASK válida e não há TASK ativa.
 
 ## Prioridade de interoperabilidade
 
-`TASK-033` concluída -> ADR de tecnologia do servidor -> `TASK-008` -> ADRs do coordenador -> `TASK-007` -> cadeia de eventos/API -> `TASK-019`.
+`TASK-034` -> validação -> ADR de tecnologia do servidor -> `TASK-008` -> `TASK-007` -> cadeia de eventos/API -> `TASK-019`.
+
+Em paralelo como pré-requisito específico da TASK-007: `TASK-033` concluída -> ADRs do coordenador. TASK-007 só inicia após a fundação do servidor e os ADRs de ambas as cadeias.
 
 Coordenador, commissioning, descoberta, capacidades, clusters padrao, atributos, comandos e tratamento seguro de clusters desconhecidos sao prioridades do MVP. O dispositivo proprio fornece apenas segundo caso de teste.
 

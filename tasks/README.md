@@ -1,8 +1,12 @@
 # Backlog de TASKs
 
+## Próxima prioridade: plataforma do servidor
+
+TASK-034 preenche a lacuna de decisão que bloqueia TASK-008: TASK-034 -> validação do usuário -> ADR da plataforma do servidor -> TASK-008. A decisão de banco definitivo continua na TASK-009.
+
 ## Prioridade do coordenador
 
-TASK-033 está formalmente concluída. TASK-032 está **SUSPENSA POR REPRIORIZAÇÃO — NÃO BLOQUEANTE**; seu trabalho documental permanece preservado para retomada futura e nenhuma TASK está ativa. ADRs do coordenador devem preceder as TASKs de implementação.
+TASK-033 está formalmente concluída. TASK-032 está **SUSPENSA POR REPRIORIZAÇÃO — NÃO BLOQUEANTE**; seu trabalho documental permanece preservado para retomada futura. TASK-034 é a próxima TASK válida; nenhuma TASK está ativa. ADRs do coordenador devem preceder a TASK-007.
 
 TASK-033 e a etapa decisoria anterior ao coordenador. TASK-008 requer primeiro seu ADR de tecnologia do servidor; TASK-007 requer TASK-008 e os ADRs aprovados do coordenador. TASK-019 conserva a matriz e execucao formal de interoperabilidade comercial.
 
@@ -31,19 +35,20 @@ Somente a TASK-000 está executada. Todas as demais aguardam validação e autor
 | 9 | P0 | 004 | Fundação de firmware e HAL |
 | 10 | P0 | 005 | Firmware do end device sensor |
 | 11 | P0 | 006 | Firmware de router Zigbee |
-| 12 | P0 | 008 | Fundação do servidor local |
-| 13 | P0 | 007 | Integração do coordenador Zigbee |
-| 14 | P0 | 009 | Banco como fonte da verdade |
-| 15 | P0 | 010 | Ingestão e processamento de eventos |
-| 16 | P0 | 012 | Segurança inicial e auditoria |
-| 17 | P0 | 011 | API administrativa |
-| 18 | P0 | 013 | Integração com Home Assistant |
-| 19 | P0 | 014 | Observabilidade e diagnósticos operacionais |
-| 20 | P0 | 016 | Implementação de OTA segura |
-| 21 | P0 | 018 | Implementação da pré-análise de IA |
-| 22 | P0 | 019 | Interoperabilidade Zigbee de terceiros |
-| 23 | P0 | 020 | Validação integrada do MVP |
-| 24 | P2 | 021–025 | Planejamento da V2 |
-| 25 | P3 | 026–028 | Visão futura |
+| 12 | P0 | 034 | Decisão da plataforma do servidor local e fundação operacional |
+| 13 | P0 | 008 | Fundação do servidor local |
+| 14 | P0 | 007 | Integração do coordenador Zigbee |
+| 15 | P0 | 009 | Banco como fonte da verdade |
+| 16 | P0 | 010 | Ingestão e processamento de eventos |
+| 17 | P0 | 012 | Segurança inicial e auditoria |
+| 18 | P0 | 011 | API administrativa |
+| 19 | P0 | 013 | Integração com Home Assistant |
+| 20 | P0 | 014 | Observabilidade e diagnósticos operacionais |
+| 21 | P0 | 016 | Implementação de OTA segura |
+| 22 | P0 | 018 | Implementação da pré-análise de IA |
+| 23 | P0 | 019 | Interoperabilidade Zigbee de terceiros |
+| 24 | P0 | 020 | Validação integrada do MVP |
+| 25 | P2 | 021–025 | Planejamento da V2 |
+| 26 | P3 | 026–028 | Visão futura |
 
 Todas as TASKs até a TASK-020, além das TASKs 029–031 que as habilitam, são obrigatórias para o MVP. P2 e P3 não pertencem ao MVP.

@@ -4,7 +4,7 @@ TASK-032 está **SUSPENSA POR REPRIORIZAÇÃO — NÃO BLOQUEANTE**. As análise
 
 O foco prioritario do MVP e coordenador e rede Zigbee interoperavel. O sensor proprio e caso de referencia/teste; sua validacao fisica nao bloqueia a cadeia do coordenador.
 
-TASK-033 definiu a base do coordenador e interoperabilidade. TASK-008 prepara o servidor apos seu ADR proprio de tecnologia; TASK-007 consome a fundacao do servidor e os ADRs do coordenador. TASK-019 executa os testes formais com dispositivos comerciais.
+TASK-034 pesquisa a plataforma do servidor e antecede seu ADR proprio e a TASK-008. TASK-033 definiu a base do coordenador e interoperabilidade; TASK-007 consome a fundacao do servidor e os ADRs do coordenador. TASK-019 executa os testes formais com dispositivos comerciais.
 
 ## MVP
 
@@ -25,6 +25,8 @@ IA distribuida, multi-servidor e marketplace de dispositivos pertencem ao horizo
 Novas ideias para versões futuras não alteram este roadmap automaticamente: devem passar pela triagem em `IDEA_TRIAGE.md` e, quando aprovadas para planejamento, ser registradas em `FUTURE_BACKLOG.md`.
 
 ## Marco atual
+
+TASK-034 e a proxima TASK valida. Ela antecede a validacao e o ADR da plataforma do servidor, que liberam TASK-008; nao escolhe o banco definitivo da TASK-009.
 
 TASK-032 precede a aprovacao das decisoes, ADRs, TASK-031, TASK-004 e TASK-005. Ela corrige a lacuna de decisao da plataforma fisica sem autorizar compra, ensaio ou implementacao.
 

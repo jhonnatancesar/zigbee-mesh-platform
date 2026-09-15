@@ -10,7 +10,7 @@ O MVP inclui servidor local; tecnologias só podem ser escolhidas com justificat
 
 ## Dependências
 
-TASK-001, TASK-002, TASK-029 e TASK-030 validadas e ADR de tecnologia do servidor aprovada.
+TASK-001, TASK-002, TASK-029, TASK-030 e TASK-034 validadas e ADR de tecnologia do servidor aprovada.
 
 ## Escopo
 

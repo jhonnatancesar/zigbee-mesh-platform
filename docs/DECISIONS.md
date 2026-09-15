@@ -2,6 +2,8 @@
 
 ## Estado atual
 
+TASK-034 é responsável por pesquisar e propor a plataforma do servidor local. Runtime, framework, concorrência, comunicação com `coordinator_adapter`, eventos internos, empacotamento e deploy permanecem pendentes; banco definitivo continua reservado à TASK-009.
+
 TASK-033 foi validada e produziu a RFC-007 e a arquitetura do coordenador. A direcao XIAO ESP32-C6 com ESP Zigbee SDK, a fronteira `coordinator_adapter`, admission e o modelo de capacidades foram aprovados conceitualmente. A formalizacao em ADR continua necessaria antes da TASK-007; nenhum ADR foi criado.
 
 TASK-029 documenta requisitos e pendencias de seguranca em `docs/SECURITY_ARCHITECTURE.md` e RFCs 002 a 004. Nenhum algoritmo, fornecedor ou mecanismo concreto foi aprovado.
