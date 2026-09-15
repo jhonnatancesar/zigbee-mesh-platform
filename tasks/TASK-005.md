@@ -10,7 +10,7 @@ O sensor proprietário é parte explícita do MVP e deve respeitar os requisitos
 
 ## Dependências
 
-TASK-002, TASK-003, TASK-004 e TASK-031 validadas.
+TASK-002, TASK-003 e TASK-004 validadas. TASK-031 valida o dispositivo de referência posteriormente e não bloqueia sua implementação.
 
 ## Escopo
 

@@ -10,7 +10,7 @@ O Playbook exige firmware proprietário e HAL desacoplada para o MVP ESP32-C6.
 
 ## Dependências
 
-TASK-003, TASK-015, TASK-029 e TASK-031 validadas; decisões de SDK/toolchain e HAL aprovadas em ADR.
+TASK-003, TASK-015 e TASK-029 validadas; decisões de SDK/toolchain e HAL aprovadas em ADR. TASK-031 não bloqueia esta fundação.
 
 ## Escopo
 

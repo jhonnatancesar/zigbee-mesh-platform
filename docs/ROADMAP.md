@@ -1,5 +1,11 @@
 # Roadmap do produto
 
+TASK-032 está **SUSPENSA POR REPRIORIZAÇÃO — NÃO BLOQUEANTE**. As análises acumuladas permanecem preservadas para retomada futura. TASK-033 é a próxima etapa prioritária do MVP.
+
+O foco prioritario do MVP e coordenador e rede Zigbee interoperavel. O sensor proprio e caso de referencia/teste; sua validacao fisica nao bloqueia a cadeia do coordenador.
+
+TASK-033 prepara decisoes do coordenador e interoperabilidade base; TASK-007 as consome, e TASK-019 executa os testes formais com dispositivos comerciais.
+
 ## MVP
 
 O MVP inclui coordenador Zigbee, routers, end devices, sensor proprietario de temperatura/umidade, servidor local, banco proprio, APIs administrativas, Home Assistant como cliente, IA, OTA e seguranca com TLS/tokens.

@@ -4,7 +4,13 @@ Todas as mudanças relevantes deste projeto serão registradas aqui.
 
 ## [Não lançado]
 
+### Alterado
+
+- TASK-032 suspensa por repriorização, sem descarte das análises acumuladas e sem bloqueio da cadeia do coordenador; TASK-033 registrada como próxima prioridade.
+
 ### Adicionado
+- TASK-033 para decisao do coordenador Zigbee e interoperabilidade baseada em capacidades anunciadas.
+- Avaliacao comparativa da plataforma fisica e RFC-006 com recomendacoes pendentes de validacao.
 - TASK-032 para resolver decisoes da plataforma fisica e liberar a validacao da TASK-031.
 - Requisitos operacionais documentais para servidor local, backup, recuperacao, tempo e retencao.
 - Politica documental de pre-analise de IA, risco, aprovacao humana e consulta externa controlada.

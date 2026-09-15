@@ -1,5 +1,13 @@
 # Backlog de TASKs
 
+## Prioridade do coordenador
+
+TASK-033 é a próxima TASK prioritária. TASK-032 está **SUSPENSA POR REPRIORIZAÇÃO — NÃO BLOQUEANTE**; seu trabalho documental permanece preservado para retomada futura e nenhuma outra TASK está ativa.
+
+TASK-033 e a etapa decisoria anterior ao coordenador: TASK-033 -> validacao do usuario -> ADRs aprovados -> TASK-008/TASK-007 -> cadeia de eventos e API -> TASK-019. TASK-019 conserva a matriz e execucao formal de interoperabilidade comercial.
+
+O coordenador e a rede Zigbee interoperavel sao o caminho critico do MVP. TASK-032, TASK-031 e TASK-005 tratam apenas o dispositivo proprio de referencia e nao bloqueiam coordenador, router, servidor ou interoperabilidade. Lacuna identificada: TASK-007 exige ADR de coordenador, mas nenhuma TASK existente pesquisa e propoe essa decisao.
+
 ## Ajuste de dependencia da plataforma fisica
 
 TASK-032 e a TASK de decisao que antecede TASK-031. A sequencia vinculante e: TASK-032 -> validacao das decisoes -> ADRs aprovados -> TASK-031 -> TASK-004 -> TASK-005. TASK-032 nao autoriza compra, ensaio fisico ou implementacao.

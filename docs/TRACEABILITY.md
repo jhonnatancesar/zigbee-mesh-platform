@@ -1,5 +1,13 @@
 # Rastreabilidade inicial
 
+TASK-032 está **SUSPENSA POR REPRIORIZAÇÃO — NÃO BLOQUEANTE**; suas análises permanecem preservadas e não há outra TASK ativa. A próxima TASK prioritária é a TASK-033.
+
+## Prioridade de interoperabilidade
+
+`TASK-033` -> validacao/ADRs do coordenador -> `TASK-008` e `TASK-007` -> cadeia de eventos/API -> `TASK-019`.
+
+Coordenador, commissioning, descoberta, capacidades, clusters padrao, atributos, comandos e tratamento seguro de clusters desconhecidos sao prioridades do MVP. O dispositivo proprio fornece apenas segundo caso de teste.
+
 ## Cadeia da plataforma fisica do sensor
 
 `TASK-032` -> validacao do usuario -> ADRs aprovados -> `TASK-031` -> `TASK-004` -> `TASK-005`.

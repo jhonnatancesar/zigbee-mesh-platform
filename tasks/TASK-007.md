@@ -10,7 +10,7 @@ O coordenador é componente do MVP; sua tecnologia específica depende de decis�
 
 ## Dependências
 
-TASK-001, TASK-002, TASK-008 e TASK-029 validadas e decisão de coordenador aprovada em ADR.
+TASK-001, TASK-002, TASK-008, TASK-029 e TASK-033 validadas; decisão de coordenador aprovada em ADR.
 
 ## Escopo
 

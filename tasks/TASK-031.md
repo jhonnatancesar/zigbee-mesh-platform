@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Executar a validação física da plataforma aprovada para o sensor de temperatura/umidade do MVP, conforme a metodologia definida pela TASK-003, sem desenvolver hardware proprietário.
+Validar o dispositivo próprio de referência XIAO ESP32-C6 + SHT41 para entrada na rede, telemetria e integração básica, sem desenvolver hardware proprietário.
 
 ## Contexto
 
