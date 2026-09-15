@@ -6,10 +6,12 @@ Todas as mudanças relevantes deste projeto serão registradas aqui.
 
 ### Alterado
 
+- TASK-034 validada formalmente; ADR-001 e ADR-002 registram plataforma do servidor e fronteira coordenador-servidor.
 - TASK-033 validada formalmente; ADRs do coordenador pendem de registro antes da implementação.
 - TASK-032 suspensa por repriorização, sem descarte das análises acumuladas e sem bloqueio da cadeia do coordenador; TASK-033 registrada como próxima prioridade.
 
 ### Adicionado
+- Avaliação da plataforma do servidor local e RFC-008, com recomendações pendentes de validação.
 - TASK-034 para decisão da plataforma do servidor local antes da fundação da TASK-008.
 - Proposta arquitetural do coordenador Zigbee e RFC-007 para interoperabilidade baseada em capacidades anunciadas, pendentes de validação.
 - TASK-033 para decisao do coordenador Zigbee e interoperabilidade baseada em capacidades anunciadas.

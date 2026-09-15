@@ -7,6 +7,7 @@
 - [RFC-005 - Plataforma fisica, energia e medicao do sensor MVP](RFC-005.md)
 - [RFC-006 - Proposta de plataforma fisica e criterios de ensaio](RFC-006.md)
 - [RFC-007 - Coordenador Zigbee e interoperabilidade baseada em capacidades](RFC-007.md)
+- [RFC-008 - Plataforma do servidor local e fundação operacional](RFC-008.md)
 
 Use o [modelo de RFC](../docs/templates/RFC_TEMPLATE.md) e consulte [Decisões](../docs/DECISIONS.md) para a regra de registro.
 

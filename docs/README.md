@@ -7,6 +7,7 @@
 - [Contexto](CONTEXTO.md): missao, escopo, principios e restricoes.
 - [Arquitetura](ARCHITECTURE.md): principios e limites ja estabelecidos pelo Playbook.
 - [Coordenador e interoperabilidade](COORDINATOR_INTEROPERABILITY_ARCHITECTURE.md): proposta de fronteira do coordenador, descoberta e capacidades Zigbee.
+- [Plataforma do servidor](SERVER_PLATFORM_EVALUATION.md): alternativas e proposta para runtime, API, eventos e operação local.
 - [Roadmap](ROADMAP.md): MVP, V2 e visao futura.
 - [Rastreabilidade](TRACEABILITY.md): relacao entre o Playbook, os documentos e as TASKs.
 - [Triagem de ideias](IDEA_TRIAGE.md): classificação e destino obrigatório de novas sugestões.

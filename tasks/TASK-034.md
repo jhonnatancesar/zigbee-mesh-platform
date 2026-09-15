@@ -1,5 +1,9 @@
 # TASK-034 — Decisão da plataforma do servidor local e fundação operacional
 
+## Status
+
+FORMALMENTE CONCLUÍDA E VALIDADA. ADR-001 e ADR-002 registram as decisões aprovadas. Nenhuma implementação foi iniciada.
+
 ## Objetivo
 
 Pesquisar, comparar e recomendar a plataforma tecnológica do servidor local necessária para liberar a TASK-008, sem implementar código, escolher banco definitivo ou criar ADR.

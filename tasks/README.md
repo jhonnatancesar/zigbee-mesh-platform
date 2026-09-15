@@ -2,11 +2,11 @@
 
 ## Próxima prioridade: plataforma do servidor
 
-TASK-034 preenche a lacuna de decisão que bloqueia TASK-008: TASK-034 -> validação do usuário -> ADR da plataforma do servidor -> TASK-008. A decisão de banco definitivo continua na TASK-009.
+TASK-034 foi validada e ADR-001/ADR-002 liberam TASK-008. A decisão de banco definitivo continua na TASK-009.
 
 ## Prioridade do coordenador
 
-TASK-033 está formalmente concluída. TASK-032 está **SUSPENSA POR REPRIORIZAÇÃO — NÃO BLOQUEANTE**; seu trabalho documental permanece preservado para retomada futura. TASK-034 é a próxima TASK válida; nenhuma TASK está ativa. ADRs do coordenador devem preceder a TASK-007.
+TASK-033 e TASK-034 estão formalmente concluídas. TASK-032 está **SUSPENSA POR REPRIORIZAÇÃO — NÃO BLOQUEANTE**; seu trabalho documental permanece preservado para retomada futura. TASK-008 é a próxima TASK válida; nenhuma TASK está ativa. ADRs do coordenador devem preceder a TASK-007.
 
 TASK-033 e a etapa decisoria anterior ao coordenador. TASK-008 requer primeiro seu ADR de tecnologia do servidor; TASK-007 requer TASK-008 e os ADRs aprovados do coordenador. TASK-019 conserva a matriz e execucao formal de interoperabilidade comercial.
 

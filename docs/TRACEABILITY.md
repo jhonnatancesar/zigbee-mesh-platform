@@ -1,12 +1,21 @@
 # Rastreabilidade inicial
 
-TASK-032 está **SUSPENSA POR REPRIORIZAÇÃO — NÃO BLOQUEANTE**; suas análises permanecem preservadas. TASK-033 está concluída. TASK-034 é a próxima TASK válida e não há TASK ativa.
+TASK-032 está **SUSPENSA POR REPRIORIZAÇÃO — NÃO BLOQUEANTE**; suas análises permanecem preservadas. TASK-033 e TASK-034 estão concluídas. TASK-008 é a próxima TASK válida e não há TASK ativa.
 
 ## Prioridade de interoperabilidade
 
-`TASK-034` -> validação -> ADR de tecnologia do servidor -> `TASK-008` -> `TASK-007` -> cadeia de eventos/API -> `TASK-019`.
+`TASK-034` concluída -> ADR-001/ADR-002 aprovados -> `TASK-008` -> `TASK-007` -> cadeia de eventos/API -> `TASK-019`.
 
 Em paralelo como pré-requisito específico da TASK-007: `TASK-033` concluída -> ADRs do coordenador. TASK-007 só inicia após a fundação do servidor e os ADRs de ambas as cadeias.
+
+## Evidência da TASK-034
+
+| Diretriz | Evidência |
+| --- | --- |
+| Servidor local e fonte da verdade | `SERVER_PLATFORM_EVALUATION.md` mantém persistência como porta local e reserva banco definitivo à TASK-009. |
+| Eventos e integração do coordenador | ADR-002 define `coordinator_adapter` por contratos normalizados, USB/Serial primário e Wi-Fi/WebSocket-TLS secundário, sem SDK Espressif no servidor. |
+| Segurança e operação | TLS, tokens, auditoria, serviço local, atualização e recuperação seguem TASK-029 e TASK-030. |
+| Compatibilidade operacional | Linux e Windows foram comparados sem exigir suporte simultâneo antes de decisão explícita. |
 
 Coordenador, commissioning, descoberta, capacidades, clusters padrao, atributos, comandos e tratamento seguro de clusters desconhecidos sao prioridades do MVP. O dispositivo proprio fornece apenas segundo caso de teste.
 
