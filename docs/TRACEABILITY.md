@@ -4,9 +4,9 @@ TASK-032 está **SUSPENSA POR REPRIORIZAÇÃO — NÃO BLOQUEANTE**; suas análi
 
 ## Prioridade de interoperabilidade
 
-`TASK-034` concluída -> ADR-001/ADR-002 aprovados -> `TASK-008` -> `TASK-007` -> cadeia de eventos/API -> `TASK-019`.
+`TASK-034` concluída -> ADR-001/ADR-002 aprovados -> `TASK-008` concluída -> `TASK-007` -> cadeia de eventos/API -> `TASK-019`.
 
-Em paralelo como pré-requisito específico da TASK-007: `TASK-033` concluída -> ADRs do coordenador. TASK-007 só inicia após a fundação do servidor e os ADRs de ambas as cadeias.
+Em paralelo como pré-requisito específico da TASK-007: `TASK-033` concluída -> ADR-003/ADR-004/ADR-005 aprovados. TASK-007 está liberada pelos pré-requisitos documentais.
 
 ## Evidência da TASK-008
 

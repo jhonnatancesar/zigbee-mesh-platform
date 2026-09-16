@@ -2,7 +2,7 @@
 
 ## Estado
 
-Proposta produzida pela TASK-033. Nenhuma escolha deste documento e uma decisao aprovada; cada decisao identificada depende de validacao explicita do usuario e ADR posterior.
+Decisões produzidas pela TASK-033 e formalizadas em ADR-003, ADR-004 e ADR-005.
 
 ## Objetivo e limites
 
@@ -33,7 +33,7 @@ Seeed Studio XIAO ESP32-C6 (ESP Zigbee SDK)
 | Adaptador NCP Silicon Labs EFR32MG21/MG24, com interface EZSP/Ember | Ecossistema consolidado e boa disponibilidade de radios. | Interface e ciclo de firmware diferentes; exige adaptador especifico e qualificacao equivalente. |
 | Radio ESP32-H2/C6 em outra placa | Opcao futura para outro formato fisico. | Nao traz beneficio sobre o XIAO ESP32-C6 para o coordenador inicial. |
 
-**Direcao definida para esta proposta:** o coordenador inicial utiliza Seeed Studio XIAO ESP32-C6 com ESP Zigbee SDK, atras de `coordinator_adapter`. A plataforma ainda deve ser formalizada em ADR somente apos a validacao completa da TASK-033. TI/ZNP permanece documentado como fallback para reavaliacao futura. A fronteira proposta permite essa troca sem reescrever dominio, persistencia ou API.
+**Decisão vigente:** o coordenador inicial utiliza Seeed Studio XIAO ESP32-C6 com ESP Zigbee SDK, atrás de `coordinator_adapter`, conforme ADR-003. TI/ZNP permanece documentado como fallback para reavaliação futura. A fronteira permite essa troca sem reescrever domínio, persistência ou API.
 
 ## Formacao, manutencao e commissioning
 
@@ -125,10 +125,4 @@ Assim, uma lampada comercial que exponha apenas On/Off pode entrar, ser identifi
 
 ## Validacao e ADRs futuros
 
-Antes de implementar a TASK-007, o usuario deve validar a plataforma recomendada, a fronteira `coordinator_adapter`, a politica de admission e o modelo de capacidade. Apos essa validacao, os ADRs minimos propostos sao:
-
-1. plataforma Seeed Studio XIAO ESP32-C6, ESP Zigbee SDK e interface do `coordinator_adapter`;
-2. ciclo de commissioning/autorizacao e auditoria, consolidando a RFC-002;
-3. modelo de capacidades e exposicao para API/Home Assistant.
-
-Nao ha ADR criado por esta TASK.
+ADR-003 formaliza plataforma e `coordinator_adapter`; ADR-004 formaliza commissioning/autorização; ADR-005 formaliza o modelo de capacidades. A TASK-007 deve implementar exclusivamente essas decisões aprovadas.

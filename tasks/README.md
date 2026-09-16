@@ -6,11 +6,11 @@ TASK-034 foi validada e ADR-001/ADR-002 liberam TASK-008. A decisão de banco de
 
 ## Prioridade do coordenador
 
-TASK-033, TASK-034 e TASK-008 estão formalmente concluídas. TASK-032 está **SUSPENSA POR REPRIORIZAÇÃO — NÃO BLOQUEANTE**; seu trabalho documental permanece preservado para retomada futura. Nenhuma TASK está ativa. ADRs do coordenador devem preceder a TASK-007.
+TASK-033, TASK-034 e TASK-008 estão formalmente concluídas. TASK-032 está **SUSPENSA POR REPRIORIZAÇÃO — NÃO BLOQUEANTE**; seu trabalho documental permanece preservado para retomada futura. TASK-007 é a próxima TASK válida; nenhuma TASK está ativa.
 
-TASK-033 e a etapa decisoria anterior ao coordenador. TASK-008 requer primeiro seu ADR de tecnologia do servidor; TASK-007 requer TASK-008 e os ADRs aprovados do coordenador. TASK-019 conserva a matriz e execucao formal de interoperabilidade comercial.
+TASK-033 e a etapa decisoria anterior ao coordenador. TASK-008 foi concluída após ADR-001/ADR-002; TASK-007 é a próxima TASK válida após ADR-003/ADR-004/ADR-005. TASK-019 conserva a matriz e execução formal de interoperabilidade comercial.
 
-O coordenador e a rede Zigbee interoperavel sao o caminho critico do MVP. TASK-032, TASK-031 e TASK-005 tratam apenas o dispositivo proprio de referencia e nao bloqueiam coordenador, router, servidor ou interoperabilidade. Lacuna identificada: TASK-007 exige ADR de coordenador, mas nenhuma TASK existente pesquisa e propoe essa decisao.
+O coordenador e a rede Zigbee interoperavel sao o caminho critico do MVP. TASK-032, TASK-031 e TASK-005 tratam apenas o dispositivo proprio de referencia e nao bloqueiam coordenador, router, servidor ou interoperabilidade.
 
 ## Ajuste de dependencia da plataforma fisica
 

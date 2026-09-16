@@ -2,7 +2,7 @@
 
 ## Status
 
-FORMALMENTE CONCLUÍDA E VALIDADA. Nenhuma ADR foi criada e nenhuma implementação foi iniciada.
+FORMALMENTE CONCLUÍDA E VALIDADA. ADR-003, ADR-004 e ADR-005 formalizam as decisões aprovadas. Nenhuma implementação foi iniciada.
 
 ## Objetivo
 

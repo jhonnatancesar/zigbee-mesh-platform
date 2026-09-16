@@ -6,6 +6,7 @@ Todas as mudanças relevantes deste projeto serão registradas aqui.
 
 ### Alterado
 
+- ADR-003, ADR-004 e ADR-005 formalizam as decisões de plataforma, commissioning/autorização e capacidades da TASK-033.
 - TASK-008 validada formalmente; fundação do servidor local pronta para consumidores posteriores.
 - TASK-034 validada formalmente; ADR-001 e ADR-002 registram plataforma do servidor e fronteira coordenador-servidor.
 - TASK-033 validada formalmente; ADRs do coordenador pendem de registro antes da implementação.

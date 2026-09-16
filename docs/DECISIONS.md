@@ -6,7 +6,7 @@ TASK-008 foi validada e estabeleceu a fundação .NET do servidor local conforme
 
 TASK-034 foi validada. ADR-001 aprova C#/.NET LTS, ASP.NET Core, concorrência assíncrona e Windows Service prioritário; ADR-002 aprova USB/Serial primário e Wi-Fi/WebSocket-TLS secundário em `coordinator_adapter`. Banco definitivo continua reservado à TASK-009.
 
-TASK-033 foi validada e produziu a RFC-007 e a arquitetura do coordenador. A direcao XIAO ESP32-C6 com ESP Zigbee SDK, a fronteira `coordinator_adapter`, admission e o modelo de capacidades foram aprovados conceitualmente. A formalizacao em ADR continua necessaria antes da TASK-007; nenhum ADR foi criado.
+TASK-033 foi validada e suas decisões estão vigentes: ADR-003 aprova a plataforma do coordenador e `coordinator_adapter`; ADR-004 aprova commissioning/autorização; ADR-005 aprova o modelo de capacidades Zigbee. TASK-007 pode consumir esses ADRs.
 
 TASK-029 documenta requisitos e pendencias de seguranca em `docs/SECURITY_ARCHITECTURE.md` e RFCs 002 a 004. Nenhum algoritmo, fornecedor ou mecanismo concreto foi aprovado.
 
