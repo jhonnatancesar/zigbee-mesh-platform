@@ -1,6 +1,6 @@
 # Rastreabilidade inicial
 
-TASK-032 está **SUSPENSA POR REPRIORIZAÇÃO — NÃO BLOQUEANTE**; suas análises permanecem preservadas. TASK-033, TASK-034 e TASK-008 estão concluídas. Não há TASK ativa; TASK-007 permanece bloqueada pelos ADRs específicos do coordenador.
+TASK-032 está **SUSPENSA POR REPRIORIZAÇÃO — NÃO BLOQUEANTE**; suas análises permanecem preservadas. TASK-033, TASK-034 e TASK-008 estão concluídas. Não há TASK ativa; ADR-003, ADR-004 e ADR-005 liberam a TASK-007 pelos pré-requisitos documentais.
 
 ## Prioridade de interoperabilidade
 

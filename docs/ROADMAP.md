@@ -26,11 +26,11 @@ Novas ideias para versões futuras não alteram este roadmap automaticamente: de
 
 ## Marco atual
 
-TASK-034 foi validada e ADR-001/ADR-002 foram aprovados. TASK-008 foi validada; ela não escolhe o banco definitivo da TASK-009. TASK-007 permanece bloqueada pelos ADRs específicos do coordenador.
+TASK-034 foi validada e ADR-001/ADR-002 foram aprovados. TASK-008 foi validada; ela não escolhe o banco definitivo da TASK-009. TASK-033 foi validada e ADR-003/ADR-004/ADR-005 liberam a TASK-007 pelos pré-requisitos documentais.
 
 TASK-032 precede a aprovacao das decisoes, ADRs, TASK-031, TASK-004 e TASK-005. Ela corrige a lacuna de decisao da plataforma fisica sem autorizar compra, ensaio ou implementacao.
 
-TASK-000 e TASK-001 foram validadas. Nenhum marco posterior foi iniciado ou validado.
+TASK-000, TASK-001, TASK-002, TASK-003, TASK-008, TASK-015, TASK-017, TASK-029, TASK-030, TASK-033 e TASK-034 foram validadas. Nenhuma TASK está ativa.
 
 TASK-029 foi validada e estabeleceu a arquitetura documental de seguranca do MVP. Nenhum componente posterior foi iniciado ou validado.
 
@@ -38,4 +38,4 @@ TASK-002 foi validada e estabeleceu os contratos documentais de eventos, dados e
 
 TASK-003 foi validada e estabeleceu os requisitos documentais do sensor e a metodologia para validacao fisica futura.
 
-A TASK-000 estruturou a documentacao e o backlog. Nenhum marco posterior foi iniciado ou validado.
+A TASK-000 estruturou a documentacao e o backlog. Os marcos posteriores validados são registrados acima; a execução da próxima TASK continua dependente de autorização explícita.

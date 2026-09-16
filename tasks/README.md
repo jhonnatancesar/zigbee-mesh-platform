@@ -18,7 +18,7 @@ TASK-032 e a TASK de decisao que antecede TASK-031. A sequencia vinculante e: TA
 
 Use o [índice de modelos](../docs/templates/README.md) ao criar uma TASK autorizada. Consulte a [rastreabilidade](../docs/TRACEABILITY.md) para a relação entre as TASKs e o Playbook.
 
-Somente a TASK-000 está executada. Todas as demais aguardam validação e autorização explícita, uma por vez. O número é um identificador estável; a sequência vinculante é determinada pelas dependências e pela ordem abaixo.
+As TASKs já validadas estão registradas no marco atual e em `docs/TRACEABILITY.md`. As demais aguardam validação e autorização explícita, uma por vez. O número é um identificador estável; a sequência vinculante é determinada pelas dependências e pela ordem abaixo.
 
 ## Sequência proposta
 
