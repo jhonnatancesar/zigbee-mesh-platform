@@ -26,7 +26,7 @@ Novas ideias para versões futuras não alteram este roadmap automaticamente: de
 
 ## Marco atual
 
-TASK-034 foi validada e ADR-001/ADR-002 foram aprovados. TASK-008 e a proxima TASK valida; ela nao escolhe o banco definitivo da TASK-009.
+TASK-034 foi validada e ADR-001/ADR-002 foram aprovados. TASK-008 foi validada; ela não escolhe o banco definitivo da TASK-009. TASK-007 permanece bloqueada pelos ADRs específicos do coordenador.
 
 TASK-032 precede a aprovacao das decisoes, ADRs, TASK-031, TASK-004 e TASK-005. Ela corrige a lacuna de decisao da plataforma fisica sem autorizar compra, ensaio ou implementacao.
 

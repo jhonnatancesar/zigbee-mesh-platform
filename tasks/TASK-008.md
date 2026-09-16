@@ -1,5 +1,9 @@
 # TASK-008 — Fundação do servidor local
 
+## Status
+
+FORMALMENTE CONCLUÍDA E VALIDADA. Nenhuma API de negócio, banco definitivo, credencial, OTA, IA ou integração Home Assistant foi implementada.
+
 ## Objetivo
 
 Implementar a fundação modular e orientada a eventos do servidor local.

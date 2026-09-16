@@ -1,12 +1,21 @@
 # Rastreabilidade inicial
 
-TASK-032 está **SUSPENSA POR REPRIORIZAÇÃO — NÃO BLOQUEANTE**; suas análises permanecem preservadas. TASK-033 e TASK-034 estão concluídas. TASK-008 é a próxima TASK válida e não há TASK ativa.
+TASK-032 está **SUSPENSA POR REPRIORIZAÇÃO — NÃO BLOQUEANTE**; suas análises permanecem preservadas. TASK-033, TASK-034 e TASK-008 estão concluídas. Não há TASK ativa; TASK-007 permanece bloqueada pelos ADRs específicos do coordenador.
 
 ## Prioridade de interoperabilidade
 
 `TASK-034` concluída -> ADR-001/ADR-002 aprovados -> `TASK-008` -> `TASK-007` -> cadeia de eventos/API -> `TASK-019`.
 
 Em paralelo como pré-requisito específico da TASK-007: `TASK-033` concluída -> ADRs do coordenador. TASK-007 só inicia após a fundação do servidor e os ADRs de ambas as cadeias.
+
+## Evidência da TASK-008
+
+| Diretriz | Evidência |
+| --- | --- |
+| Fundação modular e local | `ZigbeeMesh.Server.sln` usa .NET 10/ASP.NET Core e separa composição, aplicação e infraestrutura. |
+| Eventos e desacoplamento | Portas de eventos, coordenador e persistência impedem dependência direta de transporte, SDK Espressif ou banco definitivo. |
+| Operação segura | Configuração usa valores não sensíveis e variáveis com prefixo; segredos e endpoints de produção não são versionados. |
+| Inicialização testável | Smoke test constrói, inicia e encerra o host isoladamente, com fila limitada e worker hospedado. |
 
 ## Evidência da TASK-034
 

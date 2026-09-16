@@ -30,6 +30,8 @@ coverage/
 # Artefatos de build e firmware
 build/
 dist/
+**/bin/
+**/obj/
 .pio/
 *.o
 *.obj
